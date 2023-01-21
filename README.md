@@ -2,4 +2,4 @@
 Pump any file with null bytes 
 
 
-![Captura11](https://user-images.githubusercontent.com/104674473/191600429-8f0495f2-16ae-4b10-9542-a73d45f40d71.JPG)
+![Capturaasdads](https://user-images.githubusercontent.com/104674473/213875946-4769d4fe-ce48-4737-87fb-25fc3f42a3a4.JPG)
